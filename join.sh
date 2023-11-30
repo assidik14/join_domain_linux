@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 RESET="\033[0m"			# Normal Colour
 RED="\033[0;31m" 		# Error / Issues
